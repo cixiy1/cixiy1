@@ -20,7 +20,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cixiy1&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![modern PHP](https://img.shields.io/badge/code-Modern%20PHP-blue)]() 
+[![modern PHP](https://img.shields.io/badge/code-%20PHP-blue)]() 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-疯癫-red) 
 ![](https://img.shields.io/badge/爱好-尧尧-red)
