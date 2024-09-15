@@ -1,30 +1,8 @@
-#Github Action for generating a contribution graph with a snake eating your contributions.
+<div align="center"> < img src="https://github-readme-stats.vercel.app/api?username=cixiy1&show_icons=true&theme=tokyonight" /> </div>
 
-name: Generate Snake
+<div align="center"> < img src="https://github-readme-stats.vercel.app/api?username=cixiy1&show_icons=true&theme=tokyonight" /> </div>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<div align="center"> < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixiy1" /> </div>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+<div align="center"> < img src="https://profile-counter.glitch.me/cixiy1/count.svg" /> </div>
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.4
-      
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
-
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: main
-          message: 'Generate Contribution Snake'
