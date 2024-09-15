@@ -30,7 +30,7 @@
 
 </div>
 
-![头像](image/头像.jpg)
+![头像](http://xiaoyi.yiyu14.top/wp-content/uploads/2024/09/微信图片_20240812125836.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/cixiy1/count.svg)
 
