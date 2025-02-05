@@ -1,75 +1,75 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hello+World!+%F0%9F%8C%8E;Full+Stack+Developer+%7C+AI+Explorer;Open+Source+Enthusiast+%F0%9F%92%9A" alt="动态打字效果">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there+👋+I'm+cixiy1;Java+%7C+Python+FullStack+Developer;Vue+Enthusiast+%7C+Open+Source+Lover" alt="动态打字效果">
+  
+  <a href="https://github.com/cixiy1">
+    <img 
+      src="https://avatars.githubusercontent.com/cixiy1" 
+      alt="cixiy1头像" 
+      width="150" 
+      height="150" 
+      style="
+        border-radius: 50%;
+        border: 3px solid #00C4FF;
+        box-shadow: 0 0 20px rgba(0,196,255,0.4);
+        margin: 1.5rem 0;
+        transition: transform 0.3s ease;
+      "
+      onmouseover="this.style.transform='rotate(5deg)'"
+      onmouseout="this.style.transform='rotate(0deg)'"
+    >
+  </a>
 </p>
 
-<!-- 波浪分隔线 -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/cixiy1/cixiy1/main/wave.svg" width="100%" height="150">
 
-### 🛠️ **技术栈** 
-<!-- 动态技能徽章 -->
+### 🛠️ **技术全景图**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 🌟 **明星项目**
-<!-- 项目卡片 -->
+### 🏆 **核心项目**
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">⚡ AI Assistant</h3>
+    <td width="100%">
+      <h3 align="center">🚀 EdySync 同步系统</h3>
       <div align="center">  
-        <a href='https://github.com/yourusername/ai-assistant'>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-assistant&theme=radical" alt="AI Assistant">
+        <a href='https://github.com/cixiy1/EdySync'>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=cixiy1&repo=EdySync&theme=vue&show_owner=true" alt="EdySync">
         </a>
       </div>
       <ul>
-        <li>Natural Language Processing System</li>
-        <li>PyTorch | Transformers | FastAPI</li>
-        <li>98% Accuracy on Industry Benchmark</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎨 Art Generator</h3>
-      <div align="center">
-        <a href='https://github.com/yourusername/art-generator'>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=art-generator&theme=merko" alt="Art Generator">
-        </a>
-      </div>
-      <ul>
-        <li>GAN-based Artwork Generation</li>
-        <li>50K+ Global Users</li>
-        <li>Featured on TechCrunch</li>
+        <li>多平台数据同步解决方案</li>
+        <li>技术栈：Spring Boot + Vue3 + RabbitMQ</li>
+        <li>支持文件/数据库/API多维度同步</li>
+        <li>采用JWT身份认证机制</li>
       </ul>
     </td>
   </tr>
 </table>
 
-### 📊 **开发统计**
-<!-- 动态统计卡片 -->
+### 📈 **数据仪表盘**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=nightowl&langs_count=8"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cixiy1&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixiy1&layout=compact&theme=vue-dark&hide=html,css&langs_count=6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cixiy1&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
-### 🤝 **联系我**
-<!-- 动态联系按钮 -->
+### 🌐 **联系通道**
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:2132539636@qq.com">
+    <img src="https://img.shields.io/badge/📧_QQ邮箱-00A67D?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2132539639&site=qq&menu=yes">
+    <img src="https://img.shields.io/badge/💬_QQ-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white">
   </a>
 </p>
 
-<!-- 3D贡献图 -->
+<!-- 动态贡献图 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/cixiy1/cixiy1/output/github-contribution-grid-snake.svg" width="100%">
 </p>
