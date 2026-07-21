@@ -10,12 +10,16 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=lightning" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cixiy1&color=blueviolet&style=for-the-badge&label=Profile%20Views" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cixiy1&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cixiy1&theme=tokyonight&hide_border=true&rank_icon=github&show_icons=true&bg_color=0d1117" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cixiy1&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
@@ -36,20 +40,41 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cixiy1&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/cixiy1/Volnex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cixiy1&repo=Volnex&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
 ## 🔭 Current Project
 
 > ### **[Volnex](https://github.com/cixiy1/Volnex)**
 > 🧭 高考志愿智能推荐助手 — 基于 Flutter + Material 3，支持按省份/位次推荐高校，数据驱动、体验流畅。
 >
 > <p align="left">
->   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
->   <img src="https://img.shields.io/badge/GetX-4DB6AC?style=for-the-badge&logoColor=white" />
->   <img src="https://img.shields.io/badge/GoRouter-000000?style=for-the-badge&logoColor=white" />
->   <img src="https://img.shields.io/badge/Material_3-7B1FA2?style=for-the-badge&logoColor=white" />
->   <img src="https://img.shields.io/badge/MIT_License-AE2C0B?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+>   <img src="https://img.shields.io/github/stars/cixiy1/Volnex?style=for-the-badge&logo=flutter&logoColor=white" />
+>   <img src="https://img.shields.io/github/forks/cixiy1/Volnex?style=for-the-badge&logo=github&logoColor=white" />
+>   <img src="https://img.shields.io/github/last-commit/cixiy1/Volnex?style=for-the-badge&logo=git&logoColor=white" />
+>   <img src="https://img.shields.io/github/issues/cixiy1/Volnex?style=for-the-badge&logo=github&logoColor=white" />
+>   <img src="https://img.shields.io/github/license/cixiy1/Volnex?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+> </p>
+>
+> <p align="left">
+>   <img src="https://img.shields.io/github/languages/top/cixiy1/Volnex?style=for-the-badge&color=blueviolet&label=Main%20Language" />
+>   <img src="https://img.shields.io/github/languages/count/cixiy1/Volnex?style=for-the-badge&color=success&label=Languages" />
+>   <img src="https://img.shields.io/github/repo-size/cixiy1/Volnex?style=for-the-badge&color=orange&label=Repo%20Size" />
+>   <img src="https://img.shields.io/github/languages/code-size/cixiy1/Volnex?style=for-the-badge&color=yellow&label=Code%20Size" />
 > </p>
 
 ---
+
+## 📈 Recent Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cixiy1&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Weekly%20Activity" />
+</p>
 
 ## 🌍 Contribution Map
 
