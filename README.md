@@ -33,7 +33,7 @@
 ## 🏆 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixiy1&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cixiy1&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔭 Current Project
@@ -42,11 +42,11 @@
 > 🧭 高考志愿智能推荐助手 — 基于 Flutter + Material 3，支持按省份/位次推荐高校，数据驱动、体验流畅。
 >
 > <p align="left">
->   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter" />
->   <img src="https://img.shields.io/badge/GetX-4DB6AC?style=flat-square&logo=dart" />
->   <img src="https://img.shields.io/badge/GoRouter-000000?style=flat-square&logo=go" />
->   <img src="https://img.shields.io/badge/Material3-7B1FA2?style=flat-square" />
->   <img src="https://img.shields.io/badge/MIT License-AE2C0B?style=flat-square&logo=open-source-initiative" />
+>   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+>   <img src="https://img.shields.io/badge/GetX-4DB6AC?style=for-the-badge&logoColor=white" />
+>   <img src="https://img.shields.io/badge/GoRouter-000000?style=for-the-badge&logoColor=white" />
+>   <img src="https://img.shields.io/badge/Material_3-7B1FA2?style=for-the-badge&logoColor=white" />
+>   <img src="https://img.shields.io/badge/MIT_License-AE2C0B?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
 > </p>
 
 ---
