@@ -47,14 +47,14 @@
 <tr>
 <th align="center" width="33%">🚀 <a href="https://github.com/cixiy1/Volnex">Volnex</a></th>
 <th align="center" width="33%">🤖 <a href="https://github.com/cixiy1/ollama-client">ollama-client</a></th>
-<th align="center" width="33%">📚 <a href="https://github.com/cixiy1/EduSync">EduSync</a></th>
+<th align="center" width="33%">🪦 <a href="https://github.com/cixiy1/EduSync">EduSync</a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center"><sub>高考志愿智能推荐助手<br>Flutter · Material 3</sub></td>
 <td align="center"><sub>本地 LLM 客户端<br>Python · Ollama</sub></td>
-<td align="center"><sub>校园多媒体集中管理<br>Python</sub></td>
+<td align="center"><sub>校园多媒体集中管理<br>Python · 已完结停更</sub></td>
 </tr>
 <tr>
 <td align="center">
@@ -73,6 +73,7 @@
 <a href="https://github.com/cixiy1/EduSync/stargazers"><img src="https://img.shields.io/github/stars/cixiy1/EduSync?style=flat-square&logo=python&logoColor=white" alt="Stars"></a>
 <a href="https://github.com/cixiy1/EduSync/network/members"><img src="https://img.shields.io/github/forks/cixiy1/EduSync?style=flat-square&logo=github&logoColor=white" alt="Forks"></a>
 <a href="https://github.com/cixiy1/EduSync/commits"><img src="https://img.shields.io/github/last-commit/cixiy1/EduSync?style=flat-square&logo=git&logoColor=white" alt="Last Commit"></a>
+<img src="https://img.shields.io/badge/ARCHIVED-9e9e9e?style=flat-square&logo=archive&logoColor=white" alt="Archived">
 </td>
 </tr>
 </tbody>
@@ -115,7 +116,7 @@
 ## 💬 About Me
 
 - 🔥 热爱技术，喜欢用代码解决实际问题
-- 💻 全栈开发：移动端 (Flutter + Android) / 后端 (Node.js + PHP) / 前端 (Vue + Vite)
+- 💻 全栈开发：移动端 (Flutter + Android) / 后端 (Node.js + PHP) / 前端 (Vue + Vite) / 工具 (Python)
 - 📚 广东省高中生（物理类），探索科技与学习的边界
 - 🚀 正在路上，持续成长中
 
