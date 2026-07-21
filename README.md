@@ -42,11 +42,41 @@
 
 ## 📌 Pinned Projects
 
-<p align="center">
-  <a href="https://github.com/cixiy1/Volnex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cixiy1&repo=Volnex&theme=tokyonight&show_owner=true" />
-  </a>
-</p>
+<table>
+<thead>
+<tr>
+<th align="center" width="33%">🚀 <a href="https://github.com/cixiy1/Volnex">Volnex</a></th>
+<th align="center" width="33%">🤖 <a href="https://github.com/cixiy1/ollama-client">ollama-client</a></th>
+<th align="center" width="33%">📚 <a href="https://github.com/cixiy1/EduSync">EduSync</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><sub>高考志愿智能推荐助手<br>Flutter · Material 3</sub></td>
+<td align="center"><sub>本地 LLM 客户端<br>Python · Ollama</sub></td>
+<td align="center"><sub>校园多媒体集中管理<br>Python</sub></td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/cixiy1/Volnex/stargazers"><img src="https://img.shields.io/github/stars/cixiy1/Volnex?style=flat-square&logo=flutter&logoColor=white" alt="Stars"></a>
+<a href="https://github.com/cixiy1/Volnex/network/members"><img src="https://img.shields.io/github/forks/cixiy1/Volnex?style=flat-square&logo=github&logoColor=white" alt="Forks"></a>
+<a href="https://github.com/cixiy1/Volnex/commits"><img src="https://img.shields.io/github/last-commit/cixiy1/Volnex?style=flat-square&logo=git&logoColor=white" alt="Last Commit"></a>
+<a href="https://github.com/cixiy1/Volnex/blob/main/LICENSE"><img src="https://img.shields.io/github/license/cixiy1/Volnex?style=flat-square&logo=open-source-initiative&logoColor=white" alt="License"></a>
+</td>
+<td align="center">
+<a href="https://github.com/cixiy1/ollama-client/stargazers"><img src="https://img.shields.io/github/stars/cixiy1/ollama-client?style=flat-square&logo=python&logoColor=white" alt="Stars"></a>
+<a href="https://github.com/cixiy1/ollama-client/network/members"><img src="https://img.shields.io/github/forks/cixiy1/ollama-client?style=flat-square&logo=github&logoColor=white" alt="Forks"></a>
+<a href="https://github.com/cixiy1/ollama-client/commits"><img src="https://img.shields.io/github/last-commit/cixiy1/ollama-client?style=flat-square&logo=git&logoColor=white" alt="Last Commit"></a>
+<a href="https://github.com/cixiy1/ollama-client/blob/main/LICENSE"><img src="https://img.shields.io/github/license/cixiy1/ollama-client?style=flat-square&logo=open-source-initiative&logoColor=white" alt="License"></a>
+</td>
+<td align="center">
+<a href="https://github.com/cixiy1/EduSync/stargazers"><img src="https://img.shields.io/github/stars/cixiy1/EduSync?style=flat-square&logo=python&logoColor=white" alt="Stars"></a>
+<a href="https://github.com/cixiy1/EduSync/network/members"><img src="https://img.shields.io/github/forks/cixiy1/EduSync?style=flat-square&logo=github&logoColor=white" alt="Forks"></a>
+<a href="https://github.com/cixiy1/EduSync/commits"><img src="https://img.shields.io/github/last-commit/cixiy1/EduSync?style=flat-square&logo=git&logoColor=white" alt="Last Commit"></a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## 🔭 Current Project
 
