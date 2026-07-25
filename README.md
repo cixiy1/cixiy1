@@ -53,7 +53,7 @@
 <tbody>
 <tr>
 <td align="center"><sub>高考志愿智能推荐助手<br>Flutter · Material 3</sub></td>
-<td align="center"><sub>本地 LLM 客户端<br>Python · Ollama</sub></td>
+<td align="center"><sub>本地 LLM 客户端<br>Python</sub></td>
 <td align="center"><sub>校园多媒体集中管理<br>Python · 已完结停更</sub></td>
 </tr>
 <tr>
