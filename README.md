@@ -46,7 +46,7 @@
 <thead>
 <tr>
 <th align="center" width="33%">🚀 <a href="https://github.com/cixiy1/Volnex">Volnex</a></th>
-<th align="center" width="33%">🤖 <a href="https://github.com/cixiy1/ollama-client">ollama-client</a></th>
+<th align="center" width="33%">🤖 <a href="https://github.com/cixiy1/ollama-client">Yuki Code</a></th>
 <th align="center" width="33%">🪦 <a href="https://github.com/cixiy1/EduSync">EduSync</a></th>
 </tr>
 </thead>
