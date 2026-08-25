@@ -46,14 +46,14 @@
 <thead>
 <tr>
 <th align="center" width="33%">🚀 <a href="https://github.com/cixiy1/Volnex">Volnex</a></th>
-<th align="center" width="33%">🤖 <a href="https://github.com/cixiy1/ollama-client">Yuki Code</a></th>
+<th align="center" width="33%">🤖 <a href="https://github.com/cixiy1/yuki">Yuki Agent</a></th>
 <th align="center" width="33%">🪦 <a href="https://github.com/cixiy1/EduSync">EduSync</a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center"><sub>高考志愿智能推荐助手<br>Flutter · Material 3</sub></td>
-<td align="center"><sub>本地 LLM 客户端<br>Python</sub></td>
+<td align="center"><sub>Yuki Agent<br>Python</sub></td>
 <td align="center"><sub>校园多媒体集中管理<br>Python · 已完结停更</sub></td>
 </tr>
 <tr>
