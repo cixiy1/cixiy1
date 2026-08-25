@@ -23,33 +23,63 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cixiy1&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
-## 🔭 Activity
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cixiy1&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Weekly%20Activity" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
+
+## 🏆 Top Languages
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/38BDF8/cixiy1" alt="GitHub Contribution Heatmap" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cixiy1&theme=tokyonight&hide_border=true" />
 </p>
 
-## 💬 About Me
+## 📌 Pinned Projects
 
-- 🔥 热爱技术，喜欢用代码解决实际问题
-- 💻 Full‑Stack Developer：Flutter / Android / Node.js / PHP / Vue + Vite / Python
-- 📚 广东物理类学生，探索科技与学习的边界
-- 🚀 Keep learning & building side‑projects
+<table>
+<thead>
+<tr>
+<th align="center" width="33%">🚀 <a href="https://github.com/cixiy1/Volnex">Volnex</a></th>
+<th align="center" width="33%">🤖 <a href="https://github.com/cixiy1/ollama-client">Yuki Code</a></th>
+<th align="center" width="33%">🪦 <a href="https://github.com/cixiy1/EduSync">EduSync</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><sub>高考志愿智能推荐助手<br>Flutter · Material 3</sub></td>
+<td align="center"><sub>本地 LLM 客户端<br>Python</sub></td>
+<td align="center"><sub>校园多媒体集中管理<br>Python · 已完结停更</sub></td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/cixiy1/Volnex/stargazers"><img src="https://img.shields.io/github/stars/cixiy1/Volnex?style=flat-square&logo=flutter&logoColor=white" alt="Stars"></a>
+<a href="https://github.com/cixiy1/Volnex/network/members"><img src="https://img.shields.io/github/forks/cixiy1/Volnex?style=flat-square&logo=github&logoColor=white" alt="Forks"></a>
+<a href="https://github.com/cixiy1/Volnex/commits"><img src="https://img.shields.io/github/last-commit/cixiy1/Volnex?style=flat-square&logo=git&logoColor=white" alt="Last Commit"></a>
+<a href="https://github.com/cixiy1/Volnex/blob/main/LICENSE"><img src="https://img.shields.io/github/license/cixiy1/Volnex?style=flat-square&logo=open-source-initiative&logoColor=white" alt="License"></a>
+</td>
+<td align="center">
+<a href="https://github.com/cixiy1/ollama-client/stargazers"><img src="https://img.shields.io/github/stars/cixiy1/ollama-client?style=flat-square&logo=python&logoColor=white" alt="Stars"></a>
+<a href="https://github.com/cixiy1/ollama-client/network/members"><img src="https://img.shields.io/github/forks/cixiy1/ollama-client?style=flat-square&logo=github&logoColor=white" alt="Forks"></a>
+<a href="https://github.com/cixiy1/ollama-client/commits"><img src="https://img.shields.io/github/last-commit/cixiy1/ollama-client?style=flat-square&logo=git&logoColor=white" alt="Last Commit"></a>
+<a href="https://github.com/cixiy1/ollama-client/blob/main/LICENSE"><img src="https://img.shields.io/github/license/cixiy1/ollama-client?style=flat-square&logo=open-source-initiative&logoColor=white" alt="License"></a>
+</td>
+<td align="center">
+<a href="https://github.com/cixiy1/EduSync/stargazers"><img src="https://img.shields.io/github/stars/cixiy1/EduSync?style=flat-square&logo=python&logoColor=white" alt="Stars"></a>
+<a href="https://github.com/cixiy1/EduSync/network/members"><img src="https://img.shields.io/github/forks/cixiy1/EduSync?style=flat-square&logo=github&logoColor=white" alt="Forks"></a>
+<a href="https://github.com/cixiy1/EduSync/commits"><img src="https://img.shields.io/github/last-commit/cixiy1/EduSync?style=flat-square&logo=git&logoColor=white" alt="Last Commit"></a>
+<img src="https://img.shields.io/badge/ARCHIVED-9e9e9e?style=flat-square&logo=archive&logoColor=white" alt="Archived">
+</td>
+</tr>
+</tbody>
+</table>
 
-## 📬 Reach Me
+## 🔭 Current Project
 
-<p align="center">
-  <a href="https://github.com/cixiy1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer&text=Thanks+for+visiting!" />
-</p>
+> ### **[Volnex](https://github.com/cixiy1/Volnex)**
+> 🧭 高考志愿智能推荐助手 — 基于 Flutter + Material 3，支持按省份/位次
