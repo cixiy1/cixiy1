@@ -1,7 +1,7 @@
 # 🙌 Hi, I'm Yukiho
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=38BDF8&background=0D111700&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Building+the+future+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.jsdelivr.xyz?font=Fira+Code&size=28&duration=3000&pause=800&color=38BDF8&background=0D111700&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Building+the+future+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,25 +19,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cixiy1&theme=tokyonight&hide_border=true&rank_icon=github&show_icons=true&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cixiy1&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cixiy1&theme=tokyonight&hide_border=true&rank_icon=github&show_icons=true&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-streak-stats-git-masterrstaa-rickstaa.vercel.app/?user=cixiy1&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ## 💻 Most Used Languages
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixiy1&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cixiy1&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117" />
 </p>
 
 ## ⭐ Recent Popular Repositories
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=cixiy1&repo=Volnex&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=cixiy1&repo=ollama-client&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="140" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cixiy1&repo=Volnex&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="140" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cixiy1&repo=ollama-client&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ## 🔭 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cixiy1&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Weekly%20Activity" />
+  <img src="https://github-readme-activity-graph-git-masterrstaa-rickstaa.vercel.app/graph?username=cixiy1&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Weekly%20Activity" />
 </p>
 
 <p align="center">
@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer&text=Thanks+for+visiting!" />
+  <img src="https://capsule-render-git-masterrstaa-rickstaa.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer&text=Thanks+for+visiting!" />
 </p>
