@@ -23,6 +23,17 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cixiy1&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
+## 💻 Most Used Languages
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixiy1&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117" />
+</p>
+
+## ⭐ Recent Popular Repositories
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=cixiy1&repo=Volnex&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=cixiy1&repo=ollama-client&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
 ## 🔭 Activity
 
 <p align="center">
